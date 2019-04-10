@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+
+title: "Mr. アサイン"
+description: "配膳・皿洗い等の担当割り振りは、私にお任せください。"
+logo: img/icon.gif
+timezone: Asia/Tokyo
+
+# build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
