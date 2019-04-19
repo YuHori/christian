@@ -1,20 +1,59 @@
 - date: 2019/04/13
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/04/20
-  conditions: 111
+  conditions:
+    noon_catering: false
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/05/05
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/05/12
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/05/19
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/05/26
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/06/09
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/06/16
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/06/23
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
 - date: 2019/06/30
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true

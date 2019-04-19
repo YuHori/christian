@@ -1,7 +1,7 @@
-# Mr. アサイン
+# 教会関連
 
 ## URL
-https://yuhori.github.io/mr_assign/
+https://yuhori.github.io/christian/
 
 ## ローカル実行
 ### build

@@ -1,105 +1,252 @@
-- name: 若
+- name: member_1
   gender: 2
-  conditions: 111
-- name: 坂
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_2
   gender: 1
-  conditions: 111
-- name: 井
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_3
   gender: 1
-  conditions: 111
-- name: 小（か）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_4
   gender: 2
-  conditions: 111
-- name: 底
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_5
   gender: 2
-  conditions: 111
-- name: 石（尚）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_6
   gender: 1
-  conditions: 111
-- name: 布
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_7
   gender: 2
-  conditions: 111
-- name: 森
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_8
   gender: 2
-  conditions: 111
-- name: 東
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_9
   gender: 2
-  conditions: 111
-- name: 久
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_10
   gender: 2
-  conditions: 111
-- name: 前
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_11
   gender: 2
-  conditions: 111
-- name: 土
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_12
   gender: 2
-  conditions: 111
-- name: 堀（昌）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_13
   gender: 2
-  conditions: 111
-- name: 堀（悠）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_14
   gender: 1
-  conditions: 111
-- name: 塩
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_15
   gender: 1
-  conditions: 111
-- name: 大（昌）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_16
   gender: 1
-  conditions: 111
-- name: 大（未）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_17
   gender: 2
-  conditions: 111
-- name: 山（大）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_18
   gender: 1
-  conditions: 111
-- name: 山（香）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_19
   gender: 2
-  conditions: 111
-- name: 山（貫）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_20
   gender: 1
-  conditions: 111
-- name: 林
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_21
   gender: 1
-  conditions: 111
-- name: 次
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_22
   gender: 1
-  conditions: 111
-- name: 沼
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_23
   gender: 2
-  conditions: 111
-- name: 渡（貴）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_24
   gender: 1
-  conditions: 111
-- name: 渡（隼）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_25
   gender: 1
-  conditions: 111
-- name: 石（健）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_26
   gender: 1
-  conditions: 111
-- name: 竜
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_27
   gender: 1
-  conditions: 111
-- name: 長
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_28
   gender: 2
-  conditions: 111
-- name: 駒
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_29
   gender: 1
-  conditions: 111
-- name: 高
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_30
   gender: 2
-  conditions: 111
-- name: 新
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_31
   gender: 2
-  conditions: 111
-- name: 後
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_32
   gender: 2
-  conditions: 111
-- name: 小（芳）
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_33
   gender: 1
-  conditions: 111
-- name: 本
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_34
   gender: 1
-  conditions: 111
-- name: 西
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_35
   gender: 1
-  conditions: 111
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+
+- name: member_36
+  gender: 2
+  conditions:
+    noon_catering: true
+    noon_washing: true
+    night_catering: true
+

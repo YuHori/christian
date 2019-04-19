@@ -249,6 +249,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jemoji
   thin
 
 BUNDLED WITH

@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
-title: "Mr. アサイン"
-description: "配膳・皿洗い等の担当割り振りは、私にお任せください。"
+title: "教会関連"
+description: "教会関連の資料置き場"
 logo: img/icon.gif
 timezone: Asia/Tokyo
 
@@ -10,3 +10,7 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# plugins
+plugins:
+  - jemoji
