@@ -20,6 +20,7 @@
 - 賛美伴奏講座
   - [チラシ1](./accompaniment1.md)
   - [チラシ2](./accompaniment2.md)
+- [祈祷会](./prayer_party.md)
 
 # リンク
 - [Christian Diary](https://www.christian-diary.net/)
