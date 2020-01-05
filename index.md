@@ -1,7 +1,4 @@
 # トップ
-- [メンバー](./members.md)
-- [日程表](./dates.md)
-- :sunny: 担当表作成(準備中)
 - [聖書表](./bible_table.md)
 
 # 最近の投稿
